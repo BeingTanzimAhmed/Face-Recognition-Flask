@@ -19,3 +19,4 @@ Open: http://127.0.0.1:5000/
 
 ## Output
 ![Output](screenshot.png)
+![Output 2](screenshot2.png)
